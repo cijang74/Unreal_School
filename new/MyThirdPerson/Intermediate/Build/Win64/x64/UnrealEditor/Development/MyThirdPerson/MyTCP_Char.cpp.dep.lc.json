@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\epicgames\\unreal\\mythirdperson\\source\\mythirdperson\\mytcp_char.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epicgames\\unreal\\mythirdperson\\intermediate\\build\\win64\\x64\\mythirdpersoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\epicgames\\unreal\\mythirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mythirdperson\\definitions.mythirdperson.h",
+            "d:\\epicgames\\unreal\\mythirdperson\\source\\mythirdperson\\mytcp_char.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\epicgames\\unreal\\mythirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\mythirdperson\\uht\\mytcp_char.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

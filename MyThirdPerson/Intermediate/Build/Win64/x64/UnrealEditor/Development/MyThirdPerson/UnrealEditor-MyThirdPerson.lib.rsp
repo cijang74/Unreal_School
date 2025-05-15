@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyThirdPerson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\MyThirdPersonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\MyThirdPerson.init.gen.cpp.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\MyThirdPersonChar.gen.cpp.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\MyThirdPerson.cpp.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\MyThirdPersonChar.cpp.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\PerModuleInline.gen.cpp.obj"
+"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\Default.rc2.res"
+/OUT:"C:\Unreal_Projects\Unreal_School\MyThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyThirdPerson\UnrealEditor-MyThirdPerson.lib"

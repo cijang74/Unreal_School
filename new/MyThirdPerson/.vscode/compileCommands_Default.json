@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyTCP_Char.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyTCP_Char.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyTPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyTPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyThirdPerson.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyThirdPerson.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\Source\\MyThirdPerson\\MyThirdPerson.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal_Projects\\Unreal_School\\new\\MyThirdPerson\\.vscode\\compileCommands_Default\\MyThirdPerson.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
